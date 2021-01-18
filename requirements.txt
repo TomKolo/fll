@@ -1,6 +1,6 @@
 mpi4py>=3.0.3
 sklearn>=0.0
-tensorflow==1.2.1
+tensorflow==2.4.0
 idx2numpy==1.2.2
 numpy>=1.17.4
 Keras==2.1.5
